@@ -1,0 +1,41 @@
+/*common start*/
+body{
+	font-family: 'PT Serif', serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #656b6f;
+}
+/*common end*/
+
+/*header start*/
+header{
+	background-image: url(../images/banner.png);
+	background-size: cover;
+	background-position: center;
+	min-height: 900px;
+}
+.cus_con{
+	margin-left: 135px;
+  margin-right: 135px;
+  padding-top: 20px;
+}
+.nav-item a{
+	margin: 0 14px 0 14px;
+	color: white;
+}
+/*header end*/
+
+/* slider start */
+.wrapper{
+	margin-top: 300px;
+}
+.com h1{
+	font-size: 52px;
+	font-weight: 700;
+	color: white;
+}
+.com p{
+	font-size: 20px;
+	color: white;
+}
+/* slider end */
